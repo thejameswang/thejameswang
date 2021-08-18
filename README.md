@@ -5,7 +5,6 @@
 [![Personal Website](https://img.shields.io/badge/-Website-green)](https://thejameswang.me/)
 
 <!-- <br /> -->
-<br />
 
 ## About me
 
