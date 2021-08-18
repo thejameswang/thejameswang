@@ -1,16 +1,17 @@
-### Hi there 👋
+# 👋 Hi! I'm James (he/him/his)
 
-<!--
-**thejameswang/thejameswang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/thejameswang)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thejameswang/)
+[![Personal Website](https://img.shields.io/badge/-Website-green)](https://thejameswang.me/)
 
-Here are some ideas to get you started:
+<!-- <br /> -->
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+
+- 🔭 I’m currently working on a [nonprofit](https://hack4impact.org/)!
+- 🌱 I’m currently learning the [tech nonprofit playbook](https://www.ffwd.org/playbook/).
+- 🤔 I’m looking for help with marketing and personal branding!
+- 💬 Ask me about tech + social good.
+- 📫 How to reach me: jameswang[at]gatech.edu!
+- ⚡ Fun fact: I love [Notion](https://www.notion.so/thejameswang/James-s-Lab-ab240025ea9243f2beef15807b3df6d9)!
